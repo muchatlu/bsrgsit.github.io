@@ -1,0 +1,18 @@
+# Site settings
+title: Venkata Guravareddy
+name: Venkata Guravareddy
+
+#Any buzzword skills you want to include
+skills:
+ - NFV
+ - Openstack
+ - SDN
+ - Networking 
+ - Ansible 
+#Work experience is required
+roles:
+ - title: Specialist
+   start: June 2017
+   end: Ongoing
+   employer: Verizon 
+   description: On Boarding the VNF's using ECM/NFVD on Redhat Openstack. Developed Automation framework based on Ansible tower for the Service Configuration of VNF's.
