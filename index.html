@@ -1,0 +1,24 @@
+---
+layout: default
+--yout: default
+---
+
+<div class="row">
+	<div class="col-md-9 rightBorder">-
+
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+{% include projects.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
+
+</div>
