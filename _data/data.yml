@@ -25,83 +25,58 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Telugu
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Hindi
+        level: Beginner
         
     interests:
-      - item: Climbing
+      - item: Travelling
         link:
 
-      - item: Snowboarding
+      - item: ROM Development
         link:
 
-      - item: Cooking
+      - item: Sports
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Energetic software engineer with 6+ years experience developing and Testing in NFV/SDN space.   
+      Deployed several RHOSP and Mirantis environments integrating Openstack with Opendaylight.
+      Good hands on expereiance on several networking devices and theier service configuration 
+      Automation using Ansible and Tower.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: B.Tech in Computer science and Engineering
+      university: Andhra University
+      time: 2008 - 2012 
 
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+    - degree: Intermediate 
+      university: Board of Intermediate Education, AP.
+      time: 2006 - 2008
+      details: 
+          - Secured 532 rank in state level Entrance exam for Engineering
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Specialist
+      time: June 2017 - Present
+      company: Verizon Wireless, Hyderabad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
+        Primarly working on Onboarding the VNF(Virtual network Funtions) on RedHat Openstack using 
+        Cloud Orchestartors like ECM(Ericsson Cloud Manager) and HP-NFVD(NFV Director).
+        Developed a framework using Ansible and Tower to Automate the Service Configuration of 
+        the VNF's Deployed through orchestartors. 
+          - Saved nearly $1M/year on capex.
+          - Removed the vendor dependancy on the Service Configuration.
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: May 2016 - June 2017
+      company: Ericsson, Bangalore
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -177,23 +152,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Openstack
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: NFV Architecture
         level: 98%
 
-      - name: Angular
+      - name: Software Defined Networking
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Ansible
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Ansible Tower
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 70%
+      
+      - name: Networking 
+        level: 70%
 
 footer: >
     End of Resume - please contact me for further discussion. <i class="fas fa-heart"></i> Venkata Guravareddy
