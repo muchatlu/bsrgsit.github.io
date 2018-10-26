@@ -46,10 +46,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Energetic software engineer with 6+ years experience developing and Testing in NFV/SDN
-      space.Deployed several RHOSP and Mirantis environments integrating Openstack with Opendaylight.
-      Good hands on expereiance on several networking devices and theier service configuration 
-      Automation using Ansible and Tower.
+      Energetic software engineer with 6+ years experience developing and Testing in 
+      NFV/SDN space.Deployed several RHOSP and Mirantis environments integrating 
+      Openstack with Opendaylight. Good hands on expereiance on several networking 
+      devices and theier service configuration Automation using Ansible and Tower.
 
 education:
     - degree: B.Tech in Computer science and Engineering
@@ -78,8 +78,8 @@ experiences:
       time: May 2016 - June 2017
       company: Ericsson, Bangalore
       details: |
-        Deploying the Mirantis Fuel and Redhat Openstack and Testing OpenDaylight Plugins 
-        custom built for them. involved in OPNFV SDNVPN Project representing Ericsson to 
+        Deploying the Mirantis Fuel/Redhat Openstack and Testing OpenDaylight Plugins 
+        custom built for them. Involved in OPNFV SDNVPN Project representing Ericsson to 
         the community.
 
     - role: UI Developer
