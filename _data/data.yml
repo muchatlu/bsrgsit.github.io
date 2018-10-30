@@ -76,25 +76,27 @@ experiences:
 
     - role: Senior Software Engineer
       time: May 2016 - June 2017
-      company: Ericsson, Bangalore
+      company: Ericsson R&D, Bangalore
       details: |
         Deploying the Mirantis Fuel/Redhat Openstack and Testing OpenDaylight Plugins 
         custom built for them. Involved in OPNFV SDNVPN Project representing Ericsson to 
         the community.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: System Engineer 
+      time: December 2014 - May 2016
+      company: HPE, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        Part of Development team of HPE NFV Systems. Which is based on ETSI Architecture. 
+        Involved in Deployment Architecture of the NFV Systems. Given multiple Demo's on  
+        HPE NFV systems to different teams.
+        Deployed and Automated HP Openstack on baremetal, which is based on Triple O Architecture. 
+        
+    - role: Software Engineer 
+      time: August 2012 - December 2014 
+      company: HCL Technologies, Chennai
+      details: | 
+        Replicating the Client/Prod setup in our Lab and testing the Cisco ASA Devices. 
+        Have hands on Cisco Devices like Switches/routers and Firewalls. 
 
 skills:
     title: Skills &amp; Proficiency
