@@ -72,7 +72,7 @@ experiences:
         Developed a framework using Ansible and Tower to Automate the Service Configuration of 
         the VNF's Deployed through orchestartors. 
           - Saved nearly $1M/year on capex.
-          - Removed the vendor dependancy on the Service Configuration.
+          - Removed the vendor dependency on the Service Configuration.
 
     - role: Senior Software Engineer
       time: May 2016 - June 2017
