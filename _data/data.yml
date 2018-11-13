@@ -72,21 +72,21 @@ experiences:
         Developed a framework using Ansible and Tower to Automate the Service Configuration of 
         the VNF's Deployed through orchestartors. 
           - Saved nearly $1M/year on capex.
-          - Removed the vendor dependency on the Service Configuration.
+          - Removed the vendor dependency on the Service Configuration of the VNF's.
 
     - role: Senior Software Engineer
       time: May 2016 - June 2017
       company: Ericsson R&D, Bangalore
       details: |
         Deploying the Mirantis Fuel/Redhat Openstack and Testing OpenDaylight Plugins 
-        custom built for them. Involved in OPNFV SDNVPN Project representing Ericsson to 
-        the community.
+        custom built for them. 
+        Involved in OPNFV SDNVPN Project representing Ericsson to the OPNFV community.
 
     - role: System Engineer 
       time: December 2014 - May 2016
       company: HPE, Bangalore
       details: |
-        Part of Development team of HPE NFV Systems. Which is based on ETSI Architecture. 
+        Part of Development team of HPE NFV Systems, Which is based on ETSI Architecture. 
         Involved in Design of Deployment Architecture of the NFV Systems. Given multiple Demo's on  
         HPE NFV systems to different teams.
         Deployed and Automated HP Openstack on baremetal, which is based on Triple O Architecture. 
@@ -106,7 +106,7 @@ skills:
         level: 98%
 
       - name: NFV Architecture
-        level: 98%
+        level: 99%
 
       - name: Software Defined Networking
         level: 98%
