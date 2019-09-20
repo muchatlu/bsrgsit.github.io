@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Energetic software engineer with 6+ years experience developing and Testing in 
+      Energetic software engineer with 7+ years experience developing and Testing in 
       NFV/SDN space.Deployed several RHOSP and Mirantis environments integrating 
       Openstack with Opendaylight. Good hands on expereiance on several networking 
       devices and theier service configuration Automation using Ansible and Tower.
@@ -118,10 +118,10 @@ skills:
         level: 85%
 
       - name: Python
-        level: 70%
+        level: 80%
       
       - name: Networking 
-        level: 70%
+        level: 80%
 
 footer: >
 
